@@ -11,7 +11,15 @@
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/MainMenu/GM_MAinmenu.uasset",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/MainMenu/UI_MainMenu.uasset",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/GM_MAinmenu.uasset",
-				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/UI_MainMenu.uasset"
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/UI_MainMenu.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/UI_PauseMenu.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/BP_KeynDoor.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/Mat_Untoggled.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/Mat_toggled.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/BP_MockingDoor.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_BeegFirstPersonProjectile.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/ToppledDoor.uasset"
 			]
 		}
 	]
