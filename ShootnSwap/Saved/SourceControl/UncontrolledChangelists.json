@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzling_box.umap",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/TitleLevel.umap",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/MainMenu/GM_MAinmenu.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/MainMenu/UI_MainMenu.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/GM_MAinmenu.uasset",
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/UI_MainMenu.uasset"
+			]
+		}
+	]
+}
