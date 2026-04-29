@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/BP_MockingDoor.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzling_box.umap",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_BeegFirstPersonProjectile.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/ToppledDoor.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FPWeapon/Materials/FirstPersonProjectileMaterialWarp.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_FirstPersonWarpShot.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/EndLevel.umap",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/BP_Exit.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Menus/UI_EndMenu.uasset",
+				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/EndLevel_BuiltData.uasset",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzling_box.umap",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/TitleLevel.umap",
@@ -21,15 +33,7 @@
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/ToppledDoor.uasset",
 				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/BP_UpgradePickup.uasset",
-				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/BP_MockingDoor.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzling_box.umap",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_BeegFirstPersonProjectile.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/Puzzle_elements/ToppledDoor.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FPWeapon/Materials/FirstPersonProjectileMaterialWarp.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_FirstPersonWarpShot.uasset",
-				"C:/Users/s5432421/Desktop/GitStuff/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+				"C:/Users/s5432421/Documents/GitHub/IntermediateProgramming_A2_Shoot-swap/ShootnSwap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
