@@ -1,0 +1,24 @@
+Controls:
+WASD- Movement
+Spacebar - Jump
+Mouse Movement - Camera
+P - Pause
+	With Gun
+	Left Click - Shoot (Toggle switches)
+	Right Click - Shoot Warp/Teleport (while a Warp reference exists)
+Objective:
+You'd really rather not be stuck in here. Maybe there's something at the top which will help you blast down these doors?
+Attribution:
+Unreal starter assets:
+-Player Controller
+-Rifle
+--Visual Components
+--Pickup
+--Functionality
+--Animations and FX
+-Player Model
+--Visual Components
+--Animations
+--Animation Logic
+-Projectile Logic
+-Unreal Engine
